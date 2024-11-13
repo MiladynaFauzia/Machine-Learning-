@@ -6,8 +6,7 @@ Prediksi yang dilakukan dapat diterapkan baik pada classification maupun regress
 1.1.	Persiapan sample dataset
   	![image](https://github.com/user-attachments/assets/378a85e0-2aec-41a0-accf-fc34c0f2252d)
 1.2.	Visualisasi dataset
-  
- 
+  	 ![image](https://github.com/user-attachments/assets/163277e5-e9c1-4a56-8888-15fa9f059d89)
 1.3.	Pengantar classification dengan K-Nearest Neighbours | KNN
  
 
